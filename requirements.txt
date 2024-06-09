@@ -1,7 +1,7 @@
 streamlit
 tensorflow
 keras
-sklearn.model_selection
+scikit-learn
 tensorflow.keras.layers
-sklearn.preprocessing
+sklearn
 pandas
