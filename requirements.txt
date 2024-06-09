@@ -1,0 +1,7 @@
+streamlit
+tensorflow
+keras
+sklearn.model_selection
+tensorflow.keras.layers
+sklearn.preprocessing
+pandas
